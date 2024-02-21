@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DllNotFoundApp", "DllNotFoundApp\DllNotFoundApp.csproj", "{72080E2F-9223-4929-8B5D-B402713F4186}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|iPhone = Debug|iPhone
+		Debug|iPhoneSimulator = Debug|iPhoneSimulator
+		Release|iPhone = Release|iPhone
+		Release|iPhoneSimulator = Release|iPhoneSimulator
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{72080E2F-9223-4929-8B5D-B402713F4186}.Debug|iPhone.ActiveCfg = Debug|iPhone
+		{72080E2F-9223-4929-8B5D-B402713F4186}.Debug|iPhone.Build.0 = Debug|iPhone
+		{72080E2F-9223-4929-8B5D-B402713F4186}.Debug|iPhone.Deploy.0 = Debug|iPhone
+		{72080E2F-9223-4929-8B5D-B402713F4186}.Debug|iPhoneSimulator.ActiveCfg = Debug|iPhoneSimulator
+		{72080E2F-9223-4929-8B5D-B402713F4186}.Debug|iPhoneSimulator.Build.0 = Debug|iPhoneSimulator
+		{72080E2F-9223-4929-8B5D-B402713F4186}.Debug|iPhoneSimulator.Deploy.0 = Debug|iPhoneSimulator
+		{72080E2F-9223-4929-8B5D-B402713F4186}.Release|iPhone.ActiveCfg = Release|iPhone
+		{72080E2F-9223-4929-8B5D-B402713F4186}.Release|iPhone.Build.0 = Release|iPhone
+		{72080E2F-9223-4929-8B5D-B402713F4186}.Release|iPhone.Deploy.0 = Release|iPhone
+		{72080E2F-9223-4929-8B5D-B402713F4186}.Release|iPhoneSimulator.ActiveCfg = Release|iPhoneSimulator
+		{72080E2F-9223-4929-8B5D-B402713F4186}.Release|iPhoneSimulator.Build.0 = Release|iPhoneSimulator
+		{72080E2F-9223-4929-8B5D-B402713F4186}.Release|iPhoneSimulator.Deploy.0 = Release|iPhoneSimulator
+	EndGlobalSection
+EndGlobal
