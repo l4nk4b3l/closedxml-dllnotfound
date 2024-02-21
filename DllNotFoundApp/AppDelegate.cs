@@ -41,7 +41,7 @@ namespace DllNotFoundApp
 
             var loadOptions = new LoadOptions();
             // Workaround: This makes it possible to get the data but probably breaks the size calculation
-            loadOptions.GraphicEngine = new MyGraphicsEngine();
+            // loadOptions.GraphicEngine = new MyGraphicsEngine();
             
             // Reading the Excel crashes since >= 101.0.0
             using (var workbook = new XLWorkbook(File.OpenRead(path), loadOptions))
